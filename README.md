@@ -6,3 +6,5 @@ Repository for C++ reference
 - Uploaded reference .cpp files from W3Schools
 - added `build/` and `patch/` folders to .gitignore
 
+20250831:
+- Uploaded Errors section
