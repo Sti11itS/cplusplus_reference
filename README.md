@@ -8,3 +8,7 @@ Repository for C++ reference
 
 20250831:
 - Uploaded Errors section
+
+20250901:
+- Added Data Structures Intro
+- switched to rsync
